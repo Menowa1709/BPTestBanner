@@ -44,7 +44,7 @@ body{
 .single-feature{
     position: relative;
     display: flex;
-    border-radius: 11px;
+    border-radius: 16px;
     overflow: hidden;
     width:100%;
 }
